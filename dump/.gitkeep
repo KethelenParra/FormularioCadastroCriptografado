@@ -1,0 +1,3 @@
+# dump/
+# Mantenha esta pasta no repositório; os arquivos .sql gerados podem ser versionados para entrega.
+!.gitkeep
